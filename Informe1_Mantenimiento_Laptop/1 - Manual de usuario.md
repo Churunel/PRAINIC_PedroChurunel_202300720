@@ -61,7 +61,7 @@ Ya para algunos se les quita la carcasa desde el teclado, otros desde la parte i
 13. **Con todos estos pasos, ya podemos limpiar cada parte de la laptop.** Para armarlo, solo se regresa todo en su lugar para que funcione todo correctamente, cada tornillo, cada conector, justo como lo sacamos. Aplicamos lo inverso de cada paso, en el orden inverso, para que sea factible y que la laptop vuelva a funcionar correctamente. Y prácticamente eso sería todo para el mantenimiento.
 
 
-Por último, dejo el enlace de un video tutorial para una mejor guía, donde se explica detalladamente cómo se desarma esta laptop, cabe destacar que el video está en modo oculto, por lo tanto, tiene que tener una cuenta de YouTube para tener acceso al video (es decir, no se puede ver por modo incógnito):
+Por último, dejo el enlace de un video tutorial para una mejor guía, donde se explica detalladamente cómo se desarma esta laptop:
 
 
 [Haz clic aquí ver el video tutorial](https://youtu.be/UfjyPXzIh4g)
