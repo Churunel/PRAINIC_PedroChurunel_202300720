@@ -1,8 +1,10 @@
 # Manual para levantar un servidor con Apache2 en Linux
-## Pedro Moises Churunel Guarcax
-## Carnet 202300720
+## Alberto Velásquez - Carnet 202304153
+## Pedro Churunel - Carnet 202300720
 
 En el siguiente manual, se detallará paso a paso cómo lenvatar un servidor con Apache2 usando Linux.
+Al final del manual hay un video elaborado por nosotros detallando paso a paso cómo se tiene que realizar en dos versiones distintas de Linux
+
 
 ##
 **Nota**: Tener linux instalado
@@ -77,4 +79,8 @@ Luego podemos modificarlo desde la terminal y para guardarlo presionamos la comb
 
 8) Para verificarlos solo actualizamos la pestañan del navegador y listo, con eso estaría todo!!!
 ![17](/Informe3_SistemasOperativos/imagenes/17.png)
+
+##
+
+9) [Video 3 - Apache como servidor web usando Linux](https://youtu.be/Z348Y20zPZU)
 
